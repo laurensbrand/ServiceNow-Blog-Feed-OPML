@@ -4,19 +4,19 @@
         <title>Monotony Feed Subscriptions</title>
     </head>
     <body>
-        <outline text="" title="" type="rss" xmlUrl="https://sncdevelopment.com/feed/"></outline>
-        <outline text="Blog – ServiceIvy.com | ServiceNow Experts | Service now Consultants" title="Blog – ServiceIvy.com | ServiceNow Experts | Service now Consultants" type="rss" xmlUrl="http://www.serviceivy.com/blog/feed/"></outline>
-        <outline text="Callum's ServiceNow Blog" title="Callum's ServiceNow Blog" type="rss" xmlUrl="http://www.callum-ridley.co.uk/feed/"></outline>
-        <outline text="Code Creative | A ServiceNow Blog" title="Code Creative | A ServiceNow Blog" type="rss" xmlUrl="https://codecreative.io/servicenow?format=RSS"></outline>
+        <outline text="EcoStratus" title="EcoStratus" type="rss" xmlUrl="https://sncdevelopment.com/feed/"></outline>
+        <outline text="ServiceIvy" title="ServiceIvy" type="rss" xmlUrl="http://www.serviceivy.com/blog/feed/"></outline>
+        <outline text="Callum's Blog" title="Callum's Blog" type="rss" xmlUrl="http://www.callum-ridley.co.uk/feed/"></outline>
+        <outline text="Code Creative" title="Code Creative" type="rss" xmlUrl="https://codecreative.io/servicenow?format=RSS"></outline>
         <outline text="Service Matters" title="Service Matters" type="rss" xmlUrl="http://servicematters.servicenow.com/feed/"></outline>
-        <outline text="Service-Now | John Andersen" title="Service-Now | John Andersen" type="rss" xmlUrl="http://www.john-james-andersen.com/category/blog/service-now/feed"></outline>
-        <outline text="ServiceNow – Centrify Blog" title="ServiceNow – Centrify Blog" type="rss" xmlUrl="https://blog.centrify.com/tag/servicenow/feed/"></outline>
-        <outline text="ServiceNow – ServiceNow Developer Blog" title="ServiceNow – ServiceNow Developer Blog" type="rss" xmlUrl="https://servicenowdev.wordpress.com/tag/servicenow/feed/"></outline>
-        <outline text="ServiceNow – ServiceNow Implementation Blog" title="ServiceNow – ServiceNow Implementation Blog" type="rss" xmlUrl="https://servicenow.implementation.blog/category/servicenow/feed/"></outline>
+        <outline text="John Andersen" title="John Andersen" type="rss" xmlUrl="http://www.john-james-andersen.com/category/blog/service-now/feed"></outline>
+        <outline text="Centrify Blog" title="Centrify Blog" type="rss" xmlUrl="https://blog.centrify.com/tag/servicenow/feed/"></outline>
+        <outline text="ServiceNow Developer Blog" title="ServiceNow Developer Blog" type="rss" xmlUrl="https://servicenowdev.wordpress.com/tag/servicenow/feed/"></outline>
+        <outline text="ServiceNow Implementation Blog" title="ServiceNow Implementation Blog" type="rss" xmlUrl="https://servicenow.implementation.blog/category/servicenow/feed/"></outline>
         <outline text="ServiceNow Community : All Content - All Communities" title="ServiceNow Community : All Content - All Communities" type="rss" xmlUrl="https://community.servicenow.com/community/feeds/allcontent?community=1&amp;showProjectContent=false&amp;recursive=true&amp;tagSet=-1&amp;tag="></outline>
         <outline text="ServiceNow Guru" title="ServiceNow Guru" type="rss" xmlUrl="https://www.servicenowguru.com/feed/"></outline>
         <outline text="SN Pro Tips" title="SN Pro Tips" type="rss" xmlUrl="https://snprotips.com/?format=rss"></outline>
-        <outline text="SNBlog – by Logicalis SMC" title="SNBlog – by Logicalis SMC" type="rss" xmlUrl="http://www.snc-blog.com/feed/"></outline>
+        <outline text="SNBlog" title="SNBlog" type="rss" xmlUrl="http://www.snc-blog.com/feed/"></outline>
         <outline text="Use Servicenow" title="Use Servicenow" type="rss" xmlUrl="http://uservicenow.com/feed/"></outline>
     </body>
 </opml>
